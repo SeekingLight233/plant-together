@@ -1,0 +1,3 @@
+[submodule "forest-helper-client"]
+	path = forest-helper-client
+	url = https://github.com/SeekingLight233/forest-helper-client
