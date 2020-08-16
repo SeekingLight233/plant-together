@@ -1,0 +1,9 @@
+{
+    "triggers": [
+        {
+            "name": "pollDatabase",
+            "type": "timer",
+            "config": "*/30 * * * * * *"
+        }
+    ]
+}
